@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá tudo bem? 👋
 
-<!--
-**Jessycrys/Jessycrys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Sobre a Jessica:
+Iniciante na área de TI/Programação. Estou empolgada e incrivelmente apaixada por tudo que estou aprendendo, uma área que permite me desenvolver e enfrentar novos desafios a cada dia. 
 
-Here are some ideas to get you started:
+### Detalhes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessycrys&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jessycrys&repo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguanges Utilizadas:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessycrys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
