@@ -9,7 +9,7 @@ Iniciante na área de TI/Programação. Estou empolgada e incrivelmente apaixada
 
 ### Projetos:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jessycrys&repo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jessycrys&repo=TikTok---Projeto-workshop-Ebac &theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguanges Utilizadas:
 
